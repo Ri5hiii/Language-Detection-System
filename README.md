@@ -1,4 +1,4 @@
-# 📌 Project 4: Cough Audio Classification using ML & Deep Learning
+# 📌 Project 3: Cough Audio Classification using ML & Deep Learning
 
 ## 🔹 Description
 This project focuses on detecting cough sounds from audio signals using machine learning and deep learning techniques. The system classifies audio inputs into two categories: **Cough** and **Non-Cough**, helping in early detection of respiratory diseases such as COVID-19, asthma, and tuberculosis.
